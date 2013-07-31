@@ -24,7 +24,7 @@
 
 -(void)showLog{
     
-    // Prashant
+    // Prashant and divya
     NSLog(@"Hello GIT");
 }
 
