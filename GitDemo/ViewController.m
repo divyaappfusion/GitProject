@@ -24,7 +24,7 @@
 
 -(void)showLog{
     
-    // Prashant and divya Domains application
+    //  divya Domains application
     NSLog(@"Hello GIT");
 }
 
