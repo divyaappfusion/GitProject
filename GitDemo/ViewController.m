@@ -22,6 +22,8 @@
 
 - (void)didReceiveMemoryWarning
 {
+    
+   // NSLoadedClasses
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
