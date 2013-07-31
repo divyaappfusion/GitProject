@@ -24,9 +24,9 @@
 
 -(void)showLog{
     
-    //  divya Domains application
+    //  divya wds sweety ( Domains application )
     NSLog(@"Hello GIT");
-}
+} 
 
 
 
