@@ -21,6 +21,15 @@
     self.view.backgroundColor = [UIColor redColor];
 }
 
+
+-(void)showLog{
+    
+    NSLog(@"Hello GIT");
+}
+
+
+
+
 - (void)didReceiveMemoryWarning
 {
     
