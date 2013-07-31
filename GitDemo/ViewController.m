@@ -24,8 +24,8 @@
 
 -(void)showLog{
     
-    //  divya  ( Domains application )  
-    NSLog(@"Hello GIT");
+    
+    NSLog(@"Print Hello GIT");
 } 
 
 
