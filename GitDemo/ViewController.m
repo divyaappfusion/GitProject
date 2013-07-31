@@ -21,15 +21,10 @@
     self.view.backgroundColor = [UIColor redColor];
 }
 
-
 -(void)showLog{
-    
     //  divya Domains application
     NSLog(@"Hello GIT");
 }
-
-
-
 
 - (void)didReceiveMemoryWarning
 {
